@@ -1,4 +1,4 @@
-# Movie-Guide-App
+# JS-Movie-Guide-App
 
 ## Overview
 
